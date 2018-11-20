@@ -43,10 +43,3 @@ Note:
 
 Example: bash run_oscilator.sh 1000 4 mpi; will run the 
 oscillator for 1000 rounds over 4 cores using mpi4py.  
-
-
-
-
-There is now a build script that downloads and installs miniconda with all the equilavent packadges needed. Beware to have sudo now for MPICH if not already installed.
-
-In particular the repository has been branched to create a more efficient way to do the pulse propagation within the fibre since the grid cannot resolve all waves at the moment. 
