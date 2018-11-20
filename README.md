@@ -1,6 +1,11 @@
 # SM-FOPO
 [![Build Status](https://travis-ci.org/ibegleris/Single-mode-FOPO.svg?branch=master)](https://travis-ci.org/ibegleris/Single-mode-FOPO)
 
+
+[![DOI](https://zenodo.org/badge/104770646.svg)](https://zenodo.org/badge/latestdoi/104770646)
+
+
+
 The repository holds the model of a unidirectional single mode FOPO based upon the system.
 
 Updates in Version 2.0:
